@@ -15,7 +15,7 @@
 
     $subject = "Mensagem apartir do  portifolio.";
 
-    $logo = 'img/logo-demo.png';
+    $logo = 'img/jm-logo-180.png';
     $link = '#';
 
 	$body = "<!DOCTYPE html><html lang='en'><head><meta charset='UTF-8'><title>Express Mail</title></head><body>";
